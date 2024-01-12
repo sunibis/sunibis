@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **AWS, DevOps, Linux, Github, Django**
 
-- 📫 How to reach me **sunitabiswas15"gmail.com**
+- 📫 How to reach me **sunitabiswas15@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
